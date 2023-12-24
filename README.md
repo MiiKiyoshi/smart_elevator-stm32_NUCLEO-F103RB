@@ -22,7 +22,7 @@
 
 ![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/14f2da67-5cd9-48ad-847d-2d6508d35a79)
 
-숫자키(1~4)를 누르면 알아서 이동한다.
+숫자키(1~4)를 누르면 알아서 이동하고 f누르면 현재층을 출력한다.
 
 #### 모드 바꾸는 법
 
