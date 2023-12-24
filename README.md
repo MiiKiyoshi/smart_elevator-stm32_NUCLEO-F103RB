@@ -8,7 +8,7 @@
 
 #### 엘레베이터 위치 초기화 모드
 
-![image-20231224185809722](.\README.assets\image-20231224185809722.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/1385bad4-5cae-4d99-9cbf-b9f59e34ba79)
 
 초기 엘레베이터 위치가 4층이기 때문에 
 
@@ -20,22 +20,22 @@
 
 #### 엘레베이터 작동 모드
 
-![image-20231224190302760](.\README.assets\image-20231224190302760.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/14f2da67-5cd9-48ad-847d-2d6508d35a79)
 
 숫자키(1~4)를 누르면 알아서 이동한다.
 
 #### 모드 바꾸는 법
 
-![image-20231224185924649](.\README.assets\image-20231224185924649.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/eb951727-19c8-4d60-95cb-c214d4de89ac)
 
 nucleo보드에 달린 버튼(리셋 버튼 말고) 누르면 모드가 바뀐다.
 
 ### 엘레베이터 모형 사진
 
-![image-20231224191035607](.\README.assets\image-20231224191035607.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/0cc49afc-9273-49fa-a37a-716bfdaf5d3c)
 
-![image-20231224191047426](.\README.assets\image-20231224191047426.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/4adbffcd-7082-4bcf-b674-10d45b2d288b)
 
-![image-20231224191058997](.\README.assets\image-20231224191058997.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/35538560-9c16-4633-a1bf-8013fab8a24a)
 
-![image-20231224191106538](.\README.assets\image-20231224191106538.png)
+![image](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/7e31ab0f-c272-4a6e-a071-154bc946e86e)
