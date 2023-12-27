@@ -2,6 +2,8 @@
 
 이 엘레베이터가 smart인 이유: 엘레베이터 호출을 계속 받으면서도 동작을 함 (heap 정렬 써서 가능)
 
+### 영상
+
 ![smart_elevator](https://github.com/MiiKiyoshi/smart_elevator-stm32_NUCLEO-F103RB/assets/121929511/6e2c1d65-c3ad-47b3-a5b7-2243da03c952)
 
 ### 모드
